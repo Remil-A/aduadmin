@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/aduadmin/static/css/main.afeea762.css",
+    "main.js": "/aduadmin/static/js/main.bded5903.js",
+    "index.html": "/aduadmin/index.html",
+    "main.afeea762.css.map": "/aduadmin/static/css/main.afeea762.css.map",
+    "main.bded5903.js.map": "/aduadmin/static/js/main.bded5903.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afeea762.css",
+    "static/js/main.bded5903.js"
+  ]
+}
